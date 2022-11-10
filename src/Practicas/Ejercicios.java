@@ -17,6 +17,10 @@ public class Ejercicios {
 
         System.out.println("El IMC de la persona 3 es: ");
         p3.operacionIMC();
+
+        Estudiante e1 = new Estudiante("Itver", 5, "Alfo", 21, Persona.HOMBRE);
+        System.out.println(e1);
+        e1.Aprender();
     }
 
 }

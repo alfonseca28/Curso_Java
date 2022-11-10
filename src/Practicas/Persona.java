@@ -16,8 +16,8 @@ public class Persona {
 
     public Persona() {
         //estro es un constructor por defecto, significa que no recibe nada
-        this.nombre = "";       //los srings (cadenas) se asiganan con comillas dobles
-        this.edad = 0;
+        this.nombre = "";       //los srings (cadenas) se asiganan con comillas dobles 
+       this.edad = 0;
         this.sexo = ' ';        //los caracteres (char) se asignan con comillas simples
         this.peso = 0.0;
         this.altura = 0.0;
